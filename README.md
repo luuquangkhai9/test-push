@@ -1,1 +1,1 @@
-tập tành làm mọi thứ với git với git
+tập tành làm mọi thứ với git 
